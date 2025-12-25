@@ -24,6 +24,10 @@
     "category": "General"
   },
   {
+    "id": "EsqueletoWhisky",
+    "category": "General"
+  },
+  {
     "id": "RubiaSiniestra",
     "category": "General"
   },
@@ -36,5 +40,6 @@
     "category": "General"
   }
 ]
+
 
 
